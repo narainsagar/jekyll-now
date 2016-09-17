@@ -19,11 +19,11 @@ avatar: https://avatars0.githubusercontent.com/u/13800762
 footer-links:
   dribbble:
   email: narainmenghwar@gmail.com
-  facebook: https://facebook.com/NarainSagarOfficial
+  facebook: NarainSagarOfficial
   flickr:
-  github: narainsagar/narainsagar.github.io
+  github: narainsagar
   instagram:
-  linkedin: https://linkedin.com/in/narainsagar
+  linkedin: narainsagar
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: narainsagar
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: narainsagar
+disqus: nine
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
