@@ -18,6 +18,7 @@ avatar: https://avatars0.githubusercontent.com/u/13800762
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
+  website: http://narainsagar.com/
   email: narainmenghwar@gmail.com
   facebook: NarainSagarOfficial
   flickr:
@@ -34,7 +35,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: nine
+disqus: Narain Sagar
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
